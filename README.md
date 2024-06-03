@@ -11,10 +11,7 @@ Welcome to my GitHub profile! I am a frontend developer specializing in Vue.js a
   - TypeScript
   - HTML5 & CSS3
   - TailwindCSS
-
-- **Backend**:
-  - Node.js
-  - Express.js
+  - SASS
 
 - **Others**:
   - Git & GitHub
@@ -23,7 +20,7 @@ Welcome to my GitHub profile! I am a frontend developer specializing in Vue.js a
 
 ## 📚 Currently Learning:
 
-- Advanced techniques in Node.js
+- Basic and advanced techniques in Node.js
 - Database creation and management (e.g., MongoDB)
 - Building RESTful APIs
 
