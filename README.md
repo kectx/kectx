@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I am a frontend developer specializing in Vue.js and Nuxt.js, and I am currently expanding my skills in Node.js and Express.js to become a fullstack developer. 🌟
+Welcome to my GitHub profile! I am a frontend developer specializing in Vue.js and also reaching Nuxt.js, and I am currently expanding my skills in Node.js and Express.js to become a fullstack developer. 🌟
 
 ## 🛠 Technologies and Tools I Use:
 
