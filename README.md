@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi there! 👋
 
-<!--
-**kectx/kectx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I am a frontend developer specializing in Vue.js and Nuxt.js, and I am currently expanding my skills in Node.js and Express.js to become a fullstack developer. 🌟
 
-Here are some ideas to get you started:
+## 🛠 Technologies and Tools I Use:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frontend**:
+  - Vue.js 2 & 3
+  - Nuxt.js
+  - JavaScript (ES6+)
+  - TypeScript
+  - HTML5 & CSS3
+  - TailwindCSS
+
+- **Backend**:
+  - Node.js
+  - Express.js
+
+- **Others**:
+  - Git & GitHub
+  - Webpack
+  - Jest
+
+## 📚 Currently Learning:
+
+- Advanced techniques in Node.js
+- Database creation and management (e.g., MongoDB)
+- Building RESTful APIs
+
+## 🏢 Where I Work:
+
+I am currently working as Frontend Developer at [Tutore Poland](https://tutore.eu), where I develop and maintain modern web applications.
+
+## 🔗 Find Me Here:
+
+- [LinkedIn](https://www.linkedin.com/in/mateusz-gr%C4%99da-0ba99a224/)
+
+## 📧 Contact:
+
+Feel free to reach out to me at [oprogramowanie.mg@gmail.com](mailto:email@example.com).
+
+Thank you for visiting my profile! 😊
