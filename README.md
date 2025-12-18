@@ -1,6 +1,6 @@
 # Hi there! 👋
 
-Welcome to my GitHub profile! I am a frontend developer specializing in Vue.js and also reaching Nuxt.js, and I am currently expanding my skills in Node.js and Express.js to become a fullstack developer. 🌟
+Welcome to my GitHub profile! I am a fullstack developer focused on delivering end-to-end modern, easy to handle and well-optimised products. 🌟
 
 ## 🛠 Technologies and Tools I Use:
 
@@ -10,23 +10,33 @@ Welcome to my GitHub profile! I am a frontend developer specializing in Vue.js a
   - JavaScript (ES6+)
   - TypeScript
   - HTML5 & CSS3
+  - React
   - TailwindCSS
+  - Vuetify
   - SASS
+  - Next.js
+
+  - **Backend**:
+  - Node
+  - Nest
+  - Next.js
 
 - **Others**:
   - Git & GitHub
   - Webpack
   - Jest
+  - SQL/NoSQL (MySQL, MongoDB, PostGres)
 
 ## 📚 Currently Learning:
 
-- Basic and advanced techniques in Node.js
-- Database creation and management (e.g., MongoDB)
-- Building RESTful APIs
+- Basic and advanced techniques in Node.js, Nest and Python.
+- AI engineering like Prompt, ML, architecture.
+- Work with LangFlow, LangChain.
+- Automation workflows (N8N).
 
 ## 🏢 Where I Work:
 
-I am currently working as Frontend Developer at [Tutore Poland](https://tutore.eu), where I develop and maintain modern web applications.
+I am currently working as Fullstack Developer at [Tutore Poland](https://tutore.eu), where I develop and maintain modern web applications.
 
 ## 🔗 Find Me Here:
 
@@ -34,6 +44,6 @@ I am currently working as Frontend Developer at [Tutore Poland](https://tutore.e
 
 ## 📧 Contact:
 
-Feel free to reach out to me at [oprogramowanie.mg@gmail.com](mailto:email@example.com).
+Feel free to reach out to me at [oprogramowanie.mg@gmail.com](mailto:email@example.com) or https://oprogramowanie-mg.pl
 
 Thank you for visiting my profile! 😊
