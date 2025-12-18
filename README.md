@@ -16,7 +16,7 @@ Welcome to my GitHub profile! I am a fullstack developer focused on delivering e
   - SASS
   - Next.js
 
-  - **Backend**:
+- **Backend**:
   - Node
   - Nest
   - Next.js
